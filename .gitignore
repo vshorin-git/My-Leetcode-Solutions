@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all,django,python,virtualenv,git,windows,linux,visualstudiocode
 chromedriver.exe
 config.py
+temp_solutions/
 
 
 ### Django ###
